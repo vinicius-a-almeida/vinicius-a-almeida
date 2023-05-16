@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vinicius-a-almeida](https://github.com/vinicius-a-almeida)
 
-- 💬 Ask me about **AWS, LINUX**
+- 💬 Ask me about **AWS, LINUX**.
 
 - 📫 How to reach me **vinicius45anacleto@gmail.com**
 
