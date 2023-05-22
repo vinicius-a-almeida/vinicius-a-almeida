@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [CiLab](https://github.com/cilab-ufersa)
 
-- 🌱 I’m currently learning **DOCKER, AWS, KUBERNETES, TERRAFORM**.
+- 🌱 I’m currently learning **DOCKER, AWS, KUBERNETES, TERRAFORM, Java**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/vinicius-a-almeida](https://github.com/vinicius-a-almeida)
 
