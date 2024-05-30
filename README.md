@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinicius-a-almeida" alt="vinicius-a-almeida" /></a> </p>
 
-- 🔭 I’m currently working on [CiLab](https://github.com/cilab-ufersa)
+- 🔭 I’m currently working on [GPSICS]
 
-- 🌱 I’m currently learning **DOCKER, AWS, KUBERNETES, TERRAFORM, JAVA**.
+- 🌱 I’m currently learning **DOCKER, AWS, KUBERNETES, TERRAFORM, NETWORK, DISTRIBUTED SYSTEMS**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/vinicius-a-almeida](https://github.com/vinicius-a-almeida)
 
